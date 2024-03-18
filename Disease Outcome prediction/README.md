@@ -1,4 +1,4 @@
-Prognostic Disease Analytics is a burgeoning field that amalgamates healthcare and data analytics,
+Disease Outcome Prediction is a burgeoning field that amalgamates healthcare and data analytics,
 offering a transformative approach to predicting and managing diseases. This abstract provides an
 overview of a user-friendly application incorporating Decision Trees, Random Forests, Naive
 Bayes, and k-nearest Neighbour algorithms for prognostic disease prediction. The application,
@@ -22,7 +22,7 @@ and patient demographics.
 
 CONCLUSION AND FUTURE ENHANCEMENT
 We have proposed and implemented a cutting-edge application in the healthcare field called
-Prognostic Disease Analytics. By amalgamating healthcare expertise with advanced data analytics,
+Disease Outcome Prediction. By amalgamating healthcare expertise with advanced data analytics,
 this system offers a transformative approach to predict and manage diseases.
 The system's key strengths lie in its user-friendly interface, which simplifies the process of
 inputting patient symptoms, and its integration of four powerful machine learning algorithms:
